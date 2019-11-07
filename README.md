@@ -1,2 +1,2 @@
-# marvelous-app
+# iMarvelous
 Aplicación basada en el API de la editorial Marvel, que nos permite consultar información sobre los personajes, los cómics, las series...
